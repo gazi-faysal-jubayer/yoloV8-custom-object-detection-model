@@ -1,0 +1,1 @@
+# yoloV8-custome-object-detection-model
